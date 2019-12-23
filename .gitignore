@@ -1,6 +1,9 @@
+# Added
 .vscode
 .cache
 node_modules
+
+# Language Related
 dist
 # elm-package generated files
 elm-stuff
