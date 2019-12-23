@@ -9,11 +9,11 @@ $ npm install
 ## Run
 
 ``` sh
-$ parcel index.html
+$ npm run start
 ```
 
 ## Build
 
 ``` sh
-$ elm make src/Main.elm --output dist/index.html
+$ npm run build
 ```
